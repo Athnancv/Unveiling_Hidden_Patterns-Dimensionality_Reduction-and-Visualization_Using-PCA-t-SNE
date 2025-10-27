@@ -1,4 +1,4 @@
-```
+
 # 🧠 Unveiling Hidden Patterns: Dimensionality Reduction and Visualization using PCA & t-SNE  
 
 This repository presents a **hands-on exploration of dimensionality reduction** techniques using high-dimensional datasets. The focus is to demonstrate how **PCA (Principal Component Analysis)** and **t-SNE (t-Distributed Stochastic Neighbor Embedding)** help compress features and visualize complex data structures — all while maintaining strong model performance and interpretability.  
